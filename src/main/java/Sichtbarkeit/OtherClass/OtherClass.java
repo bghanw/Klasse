@@ -1,4 +1,4 @@
-package Sichtbarkeit;
+package Sichtbarkeit.OtherClass;
 
 public class OtherClass {
     public static String text = "Hi";
