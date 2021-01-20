@@ -7,6 +7,7 @@ public class SomeClass {
         OtherClass.say();
         OtherClass.text = "Hallo";
         OtherClass.say();
+        OtherClass.say();
     }
 }
 
