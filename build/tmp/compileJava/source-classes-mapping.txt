@@ -20,3 +20,11 @@ Sichtbarkeit/OtherClass/OtherClass.java
  Sichtbarkeit.OtherClass.OtherClass
 Sichtbarkeit/SomeClass.java
  Sichtbarkeit.SomeClass
+Sichtbarkeit/app/StringExtensionsApp.java
+ Sichtbarkeit.app.StringExtensionsApp
+Sichtbarkeit/common/StringExtensions.java
+ Sichtbarkeit.common.StringExtensions
+Sichtbarkeit/common/IntArrayExtensions.java
+ Sichtbarkeit.common.IntArrayExtensions
+Sichtbarkeit/app/IntArrayExtensionsApp.java
+ Sichtbarkeit.app.IntArrayExtensionsApp
