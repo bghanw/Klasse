@@ -1,14 +1,16 @@
 Klassen/Point.java
  Klassen.Point
-Klassen/Circle.java
- Klassen.Circle
+Klassen/StringExtensions.java
+ Klassen.StringExtensions
 Klassen/Line.java
  Klassen.Line
 Klassen/BbcMath.java
  Klassen.BbcMath
+Klassen/IntArrayExtensions.java
+ Klassen.IntArrayExtensions
 KlasseApp/SomeClass.java
  KlasseApp.SomeClass
 Klassen/Rectangle.java
  Klassen.Rectangle
-Klassen/StringExtensions.java
- Klassen.StringExtensions
+Klassen/Circle.java
+ Klassen.Circle
