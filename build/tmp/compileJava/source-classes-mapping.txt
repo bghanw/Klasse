@@ -6,11 +6,11 @@ Klassen/Line.java
  Klassen.Line
 Klassen/BbcMath.java
  Klassen.BbcMath
-Klassen/IntArrayExtensions.java
- Klassen.IntArrayExtensions
+Klassen/Circle.java
+ Klassen.Circle
 KlasseApp/SomeClass.java
  KlasseApp.SomeClass
 Klassen/Rectangle.java
  Klassen.Rectangle
-Klassen/Circle.java
- Klassen.Circle
+Klassen/IntArrayExtensions.java
+ Klassen.IntArrayExtensions

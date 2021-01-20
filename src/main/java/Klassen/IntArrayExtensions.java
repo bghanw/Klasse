@@ -38,7 +38,7 @@ public class IntArrayExtensions {
         return calc;
     }
     static int getMin(int[] elements)
-    {
+    {  // TODO
         int calc =0;
         for (int i = 10; i <= elements.length -1; i--){
             calc = Math.min(calc, elements[i]);
@@ -48,7 +48,7 @@ public class IntArrayExtensions {
 
 
     static double getAverage(int[] elements)
-    {
+    { // TODO
         double total = 0;
         double avg = 0;
         for (int i = 0; i < elements.length; i++){
@@ -58,7 +58,8 @@ public class IntArrayExtensions {
         return avg;
     }
 
-    static int[] sort(int[] elements) {
+    static int[] sort(int[] elements)
+    { // TODO
         for (int i = 1; i < elements.length; i++) {
             for (int j = i; j > 0; j--) {
                 if (elements[j] < elements [j - 1]) {
@@ -71,8 +72,15 @@ public class IntArrayExtensions {
         return elements;
     }
 
-    static int[] reverse(int[] elements) {
-        return null; // TODO
+    static int[] reverse(int[] elements)
+    { // TODD
+        for (int i =0; i < elements.length; i++){
+            for (int j=i+1; j< elements.length; j++){
+
+            }
+        }
+
+        return elements;
     }
     static int[] mix(int[] elements) {
         return null; // TODO
