@@ -14,9 +14,9 @@ Klassen/Rectangle.java
  Klassen.Rectangle
 Sichtbarkeit/OtherClass.java
  Sichtbarkeit.OtherClass
-Klassen/IntArrayExtensions.java
- Klassen.IntArrayExtensions
-Sichtbarkeit/PackageCommon.java
- Sichtbarkeit.PackageCommon
 Sichtbarkeit/SomeClass.java
  Sichtbarkeit.SomeClass
+Sichtbarkeit/PackageCommon.java
+ Sichtbarkeit.PackageCommon
+Klassen/IntArrayExtensions.java
+ Klassen.IntArrayExtensions

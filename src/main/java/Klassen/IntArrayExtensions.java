@@ -39,8 +39,8 @@ public class IntArrayExtensions {
     }
     static int getMin(int[] elements)
     {  // TODO
-        int calc =0;
-        for (int i = 10; i <= elements.length -1; i--){
+        int calc = 10;
+        for (int i = 0; i <= elements.length -1; i++){
             calc = Math.min(calc, elements[i]);
         }
         return calc;
@@ -74,15 +74,41 @@ public class IntArrayExtensions {
 
     static int[] reverse(int[] elements)
     { // TODD
-        for (int i =0; i < elements.length; i++){
-            for (int j=i+1; j< elements.length; j++){
-
-            }
+        for (int i = 0; i < elements.length/2; i++){
+            int temp = elements[i];
+            elements[i] = elements[elements.length-i -1];
+            elements[elements.length-i -1] = temp;
         }
+       /*
+
+       int[] arr = new int[elements.length];
+        int j = 0;
+        for(int i = elements.length-1; i >= 0; i--) {
+            arr[j] = elements[i];
+            j++;
+        }
+       *****OR****
+       int last = elements.length-1;
+        int middle = elements.length/2;
+
+        for (int i = 0; i <= middle; i++ )
+        {
+            int temp = elements[i];
+            elements[i] = elements[last - i];
+            elements[last - i] = temp;
+
+        } */
 
         return elements;
     }
-    static int[] mix(int[] elements) {
-        return null; // TODO
+    static int[] mix(int[] elements)
+    { // TODO
+        Random rand = new Random();
+        int range = elements.length;
+        for (int i = 0; i <= elements.length -1; i++)
+        {
+           elements[i] = rand.nextInt(range);
+        }
+        return elements;
     }
 }
