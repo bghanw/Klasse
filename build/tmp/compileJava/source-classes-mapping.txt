@@ -28,3 +28,15 @@ Sichtbarkeit/app/StringExtensionsApp.java
  Sichtbarkeit.app.StringExtensionsApp
 Sichtbarkeit/common/StringExtensions.java
  Sichtbarkeit.common.StringExtensions
+Sichtbarkeit/geometry/Line.java
+ Sichtbarkeit.geometry.Line
+Sichtbarkeit/geometry/Point.java
+ Sichtbarkeit.geometry.Point
+WhiteBoardAuftrag/Dog.java
+ WhiteBoardAuftrag.Dog
+Sichtbarkeit/geometry/Circle.java
+ Sichtbarkeit.geometry.Circle
+Sichtbarkeit/geometry/Rectangle.java
+ Sichtbarkeit.geometry.Rectangle
+WhiteBoardAuftrag/App.java
+ WhiteBoardAuftrag.App
