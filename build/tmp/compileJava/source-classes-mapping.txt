@@ -1,7 +1,7 @@
 Sichtbarkeit/app/StringExtensionsApp.java
  Sichtbarkeit.app.StringExtensionsApp
-Sichtbarkeit/SomeClass.java
- Sichtbarkeit.SomeClass
+Sichtbarkeit/geometry/RectangleApp.java
+ Sichtbarkeit.geometry.RectangleApp
 Klassen/Line.java
  Klassen.Line
 WhiteBoardAuftrag/App.java
@@ -18,6 +18,8 @@ Klassen/Point.java
  Klassen.Point
 Sichtbarkeit/geometry/LineApp.java
  Sichtbarkeit.geometry.LineApp
+geometry/Point.java
+ geometry.Point
 Sichtbarkeit/geometry/Line.java
  Sichtbarkeit.geometry.Line
 Klassen/StringExtensions.java
@@ -30,12 +32,18 @@ Sichtbarkeit/OtherClass/OtherClass.java
  Sichtbarkeit.OtherClass.OtherClass
 Sichtbarkeit/app/IntArrayExtensionsApp.java
  Sichtbarkeit.app.IntArrayExtensionsApp
+geometry/PointApp.java
+ geometry.PointApp
 Sichtbarkeit/common/IntArrayExtensions.java
  Sichtbarkeit.common.IntArrayExtensions
 Sichtbarkeit/geometry/CircleApp.java
  Sichtbarkeit.geometry.CircleApp
+account/Account.java
+ account.Account
 Sichtbarkeit/common/StringExtensions.java
  Sichtbarkeit.common.StringExtensions
+account/App.java
+ account.App
 WhiteBoardAuftrag/Dog.java
  WhiteBoardAuftrag.Dog
 Sichtbarkeit/geometry/PointApp.java
@@ -46,9 +54,5 @@ Klassen/IntArrayExtensions.java
  Klassen.IntArrayExtensions
 Sichtbarkeit/geometry/Rectangle.java
  Sichtbarkeit.geometry.Rectangle
-Sichtbarkeit/geometry/RectangleApp.java
- Sichtbarkeit.geometry.RectangleApp
-account/Account.java
- account.Account
-account/App.java
- account.App
+Sichtbarkeit/SomeClass.java
+ Sichtbarkeit.SomeClass
