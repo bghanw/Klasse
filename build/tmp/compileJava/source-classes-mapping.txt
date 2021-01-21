@@ -1,42 +1,54 @@
-Klassen/Point.java
- Klassen.Point
-Klassen/StringExtensions.java
- Klassen.StringExtensions
-Klassen/Line.java
- Klassen.Line
-Klassen/BbcMath.java
- Klassen.BbcMath
-Klassen/Circle.java
- Klassen.Circle
-KlasseApp/SomeClass.java
- KlasseApp.SomeClass
-Klassen/Rectangle.java
- Klassen.Rectangle
-Klassen/IntArrayExtensions.java
- Klassen.IntArrayExtensions
-Sichtbarkeit/PackageCommon.java
- Sichtbarkeit.PackageCommon
-Sichtbarkeit/OtherClass/OtherClass.java
- Sichtbarkeit.OtherClass.OtherClass
+Sichtbarkeit/app/StringExtensionsApp.java
+ Sichtbarkeit.app.StringExtensionsApp
 Sichtbarkeit/SomeClass.java
  Sichtbarkeit.SomeClass
+Klassen/Line.java
+ Klassen.Line
+WhiteBoardAuftrag/App.java
+ WhiteBoardAuftrag.App
+Klassen/Rectangle.java
+ Klassen.Rectangle
+Klassen/Circle.java
+ Klassen.Circle
+Sichtbarkeit/geometry/Circle.java
+ Sichtbarkeit.geometry.Circle
+Sichtbarkeit/PackageCommon.java
+ Sichtbarkeit.PackageCommon
+Klassen/Point.java
+ Klassen.Point
+Sichtbarkeit/geometry/LineApp.java
+ Sichtbarkeit.geometry.LineApp
+Sichtbarkeit/geometry/Line.java
+ Sichtbarkeit.geometry.Line
+Klassen/StringExtensions.java
+ Klassen.StringExtensions
+Sichtbarkeit/geometry/Point.java
+ Sichtbarkeit.geometry.Point
+KlasseApp/SomeClass.java
+ KlasseApp.SomeClass
+Sichtbarkeit/OtherClass/OtherClass.java
+ Sichtbarkeit.OtherClass.OtherClass
 Sichtbarkeit/app/IntArrayExtensionsApp.java
  Sichtbarkeit.app.IntArrayExtensionsApp
 Sichtbarkeit/common/IntArrayExtensions.java
  Sichtbarkeit.common.IntArrayExtensions
-Sichtbarkeit/app/StringExtensionsApp.java
- Sichtbarkeit.app.StringExtensionsApp
+Sichtbarkeit/geometry/CircleApp.java
+ Sichtbarkeit.geometry.CircleApp
 Sichtbarkeit/common/StringExtensions.java
  Sichtbarkeit.common.StringExtensions
-Sichtbarkeit/geometry/Line.java
- Sichtbarkeit.geometry.Line
-Sichtbarkeit/geometry/Point.java
- Sichtbarkeit.geometry.Point
 WhiteBoardAuftrag/Dog.java
  WhiteBoardAuftrag.Dog
-Sichtbarkeit/geometry/Circle.java
- Sichtbarkeit.geometry.Circle
+Sichtbarkeit/geometry/PointApp.java
+ Sichtbarkeit.geometry.PointApp
+Klassen/BbcMath.java
+ Klassen.BbcMath
+Klassen/IntArrayExtensions.java
+ Klassen.IntArrayExtensions
 Sichtbarkeit/geometry/Rectangle.java
  Sichtbarkeit.geometry.Rectangle
-WhiteBoardAuftrag/App.java
- WhiteBoardAuftrag.App
+Sichtbarkeit/geometry/RectangleApp.java
+ Sichtbarkeit.geometry.RectangleApp
+account/Account.java
+ account.Account
+account/App.java
+ account.App
