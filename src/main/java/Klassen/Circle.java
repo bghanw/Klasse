@@ -14,12 +14,12 @@ public class Circle {
     }
 
     static double calculateArea(int radius) {
-        double area = radius * radius * Math.PI;
+        double area = Math.pow(radius,2) * Math.PI; // or--> radius * radius * Math.PI;
         return area;
     }
 
     static double calculateCircumference(int radius) {
-        double circumference = 2 * Math.PI * radius;
+        double circumference = (2 * radius) * Math.PI; // or---> 2 * Math.PI * radius;
         return circumference;
     }
 
